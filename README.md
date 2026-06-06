@@ -1,10 +1,10 @@
 # VMD Format Specification
 
-**Format:** Video Markdown (VMD)
-**File extension:** `.vmd`
-**Author:** Sohan Dananjaya
-**Version:** 1.0
-**Date:** 2026
+> **Format:** Video Markdown (VMD)  
+> **File extension:** `.vmd`  
+> **Author:** Sohan Dananjaya  
+> **Version:** 1.0  
+> **Date:** 2026
 
 ---
 
